@@ -1,0 +1,14 @@
+body{
+    background:  #000000;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 15px;
+  }
